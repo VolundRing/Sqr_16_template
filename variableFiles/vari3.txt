@@ -1,0 +1,8 @@
+variable 3
+
+This is the text of the RIGHT arrow.
+this is the text contained in the vari[n] file. 
+the first line is the title and will appear as the label on the grid.
+
+this file must be saved as a plain text file (.txt) and placed in the variableFiles folder.
+the name of this text file should be "vari" + the number that coresponds with the box on the template... such as vari0.txt

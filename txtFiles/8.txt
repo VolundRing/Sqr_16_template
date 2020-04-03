@@ -1,0 +1,7 @@
+title8
+
+this is the text contained in the file. 
+the first line is the title and will appear as the label on the grid.
+
+this file must be saved as a plain text file (.txt) and placed in the txtFiles folder.
+the name of this text file should be the number that coresponds with the box on the template... such as 0.txt
